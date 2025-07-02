@@ -1,4 +1,4 @@
-# Assessment Portfolio Website
+#  Responsive Home Page Website
 This is a responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. The goal of this project is to create a modern and professional portfolio for a front-end developer to showcase skills, projects, and contact information.
 
 ## Technologies Used
