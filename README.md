@@ -1,6 +1,12 @@
 #  Responsive Home Page Website
 This is a responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. The goal of this project is to create a modern and professional portfolio for a front-end developer to showcase skills, projects, and contact information.
 
+# Live Demo: https://responsive-homepageview.netlify.app
+
+This is a responsive personal portfolio website built using HTML, CSS, and JavaScript. The goal of this project is to create a modern and professional portfolio for a front-end developer to showcase skills, projects, and contact information.
+
+
+
 ## Technologies Used
 
 - **HTML** – To structure the content and layout.
